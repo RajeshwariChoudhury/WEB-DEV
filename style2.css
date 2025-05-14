@@ -1,0 +1,17 @@
+body{
+	background-image:url(background2.jpg);
+	background-size:cover;
+}
+h2{
+	color:lawngreen;
+}
+p{
+	color:rosybrown;
+	text-decoration:line-through;
+	text-transform:lowercase;
+	line-height:23px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 125%;
+	font-family: georgia;
+}
